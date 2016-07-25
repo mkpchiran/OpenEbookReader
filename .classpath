@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/chiranz/Documents/jxbrowser-6.6-cross-desktop-win_mac_linux/lib/jxbrowser-6.6.jar"/>
+	<classpathentry kind="lib" path="/home/chiranz/Documents/jxbrowser-6.6-cross-desktop-win_mac_linux/lib/jxbrowser-linux32-6.6.jar"/>
+	<classpathentry kind="lib" path="/home/chiranz/Documents/jxbrowser-6.6-cross-desktop-win_mac_linux/lib/jxbrowser-linux64-6.6.jar"/>
+	<classpathentry kind="lib" path="/home/chiranz/Documents/jxbrowser-6.6-cross-desktop-win_mac_linux/lib/jxbrowser-mac-6.6.jar"/>
+	<classpathentry kind="lib" path="/home/chiranz/Documents/jxbrowser-6.6-cross-desktop-win_mac_linux/lib/jxbrowser-win-6.6.jar"/>
+	<classpathentry kind="lib" path="/home/chiranz/Downloads/license.jar"/>
+	<classpathentry kind="lib" path="/home/chiranz/Downloads/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/home/chiranz/Desktop/com.google.guava_1.6.0.jar"/>
+	<classpathentry kind="output" path="out/production/OpenEbookReader"/>
+</classpath>
