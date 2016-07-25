@@ -8,6 +8,9 @@ mvn install:install-file -Dfile=path to license.jar -DgroupId=com.teamdev.jxbrow
 to run the project
 
 mvn install
+
 mvn package
+
 cd /target
+
 java -jar OpenEbookReader-0.0.1-SNAPSHOT-jar-with-dependencies.jar
